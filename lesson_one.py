@@ -1,4 +1,5 @@
 ##ERCANKARACELIK##
+##I worked on Jupyter Notebook & Python 3.0
 #for comment use # mark 
 
 
