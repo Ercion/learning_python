@@ -3,6 +3,4 @@
 in this project, we will learn and practice python together.
 
 
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![alt text](https://images.app.goo.gl/J381PjkuBDBXhizQ7)
+![alt text](https://res.cloudinary.com/dyd911kmh/image/upload/c_scale,f_auto,q_auto:best,w_700/v1512740202/Template_2_oxrskq.png)
