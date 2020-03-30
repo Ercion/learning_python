@@ -80,11 +80,11 @@ my_file.close()
 Notice, that we didn't have to write "file.close()". 
 That will automatically be called.
 """
-with open("my_file.txt") as file:
+
+with open("my_file.txt",'a') as file:
+    file.write('This line was added using With Open Method')
+ 
+
+with open("my_file.txt",'r') as file:
     print('WITH OPEN METHOD')
     print(file.read())
-    
-
-
-
-
