@@ -6,6 +6,17 @@ Created on Tue Mar 31 17:51:13 2020
 """
 
 def fibonacci(n):
+    '''
+    
+    Parameters
+    ----------
+    n : number of fibonacci numbers
+
+    Returns
+    -------
+    fib_list : this list will keep fibonacci numbers
+
+    '''
     a=0
     b=1
     fib_list=[]
@@ -15,4 +26,4 @@ def fibonacci(n):
     return fib_list
 
 
-print(fibonacci(15))
+print(fibonacci(15)) 
